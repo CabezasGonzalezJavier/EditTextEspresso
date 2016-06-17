@@ -1,4 +1,4 @@
-# RouteTestEspresso
+# EditTextTestEspresso
 
 # About
   This is a simple example how to make a check a String in EditText and Custom Matchers in Espresso
